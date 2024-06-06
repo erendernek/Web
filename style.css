@@ -1,0 +1,39 @@
+body{
+    background-color: #9ACD32;
+
+
+
+}
+@keyframes color-change {
+    0% {
+      color: blue;
+    }
+  
+    50% {
+      color: red;
+    }
+  
+    100% {
+      color: blue;
+    }
+}
+
+h1{
+animation: color-change 3s infinite;
+
+
+}
+@keyframes color-change2 {
+    0% {
+      color: blue;
+    }
+  
+    50% {
+      color: red;
+    }
+  
+    100% {
+      color: blue;
+    }
+}
+
